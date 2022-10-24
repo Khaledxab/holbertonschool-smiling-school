@@ -8,7 +8,7 @@ Here the final result:
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens here
 
-##Requirements
+## Requirements
 You have to use Bootstrap
 Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
 Imports
